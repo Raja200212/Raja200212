@@ -86,14 +86,6 @@
 
 ---
 
-## 🐍 Animated Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raja200212/Raja200212/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
 ## 👁️ Profile Views
 
 <p align="center">
