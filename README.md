@@ -1,75 +1,42 @@
 
-# Hi there 👋 I'm Raja Manikandan ⚡
+<!-- ====== AI FUTURISTIC THEME | GitHub Profile README ====== -->
+<!-- Username set to: Raja200212 -->
+
+<h1 align="center">🧠 Raja Manikandan</h1>
+<h3 align="center">AI-Focused Full Stack Developer ⚡ | Founder @InpandTechnologies</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Integration+Explorer;React+%7C+Laravel+%7C+Node;Founder+@InpandTechnologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Integration+%26+Automation+%F0%9F%A7%A0;React+%7C+Node+%7C+Laravel+%7C+Django;Building+Modern+Apps+%2B+Smart+Workflows;From+Idea+%E2%9E%9C+Product+%E2%9E%9C+Scale" />
 </p>
 
-<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:7C3AED,100:FF00FF&height=160&section=header&text=AI%20Futuristic%20Developer&fontSize=40&fontColor=ffffff" />
+</p>
+
+<p align="right">
+  <img width="340" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👾 About Me
 
-- 🔭 I’m currently working on **Web & Software Applications**
-- 🌱 I’m currently learning **AI Integration in Development**
-- 👯 I’m looking to collaborate on **Full Stack Projects**
-- 💬 Ask me about **React, Laravel, Node, Django**
-- 🎬 I also do **Video Editing & Creative Branding**
-- ⚡ Fun fact: I turn coffee ☕ into scalable code ⚡
-
----
-
-## 🛠 Featured Projects
-
-<div style="background-color: #0d1117; padding: 25px; border-radius: 12px; margin-bottom: 15px; border: 1.5px solid #00F7FF;">
-  <h3 style="color: #00F7FF; margin-top: 0;">📱 Mei Alai App</h3>
-  <p>A specialized mobile application built for seamless user engagement and high-performance data handling. Focused on delivering a smooth UI/UX with a robust backend architecture.</p>
-  <a href="https://github.com/Raja200212" style="color: #00F7FF; font-weight: bold; text-decoration: none;">[ View Project → ]</a>
-</div>
-
-<div style="background-color: #0d1117; padding: 25px; border-radius: 12px; margin-bottom: 15px; border: 1.5px solid #FFD700;">
-  <h3 style="color: #FFD700; margin-top: 0;">📀 Gold Services - Windows Software</h3>
-  <p>A comprehensive desktop solution designed for gold service management. Features include real-time tracking, secure database management, and automated reporting for Windows environments.</p>
-  <a href="https://github.com/Raja200212" style="color: #FFD700; font-weight: bold; text-decoration: none;">[ View Project → ]</a>
-</div>
-
-<div style="background-color: #0d1117; padding: 25px; border-radius: 12px; margin-bottom: 15px; border: 1.5px solid #00FFCC;">
-  <h3 style="color: #00FFCC; margin-top: 0;">🌐 GPTL Cable Web Applications</h3>
-  <p>Enterprise-grade web platforms tailored for cable service providers. Streamlines subscription management, billing cycles, and customer support via a responsive Full-Stack dashboard.</p>
-  <a href="https://github.com/Raja200212" style="color: #00FFCC; font-weight: bold; text-decoration: none;">[ View Project → ]</a>
-</div>
+- 🔭 Building **Web Apps, APIs, and Windows Software**
+- 🧠 Learning **AI tools + integration** (automation, assistants, smart UI)
+- 🧩 Love working on **Dashboards, Admin Panels, Payments, Reports**
+- 🎬 Also into **Video Editing & Creative Branding**
+- ⚡ Fun fact: I optimize everything — code, UX, and workflows
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/raja-manikandan-p?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajamanikandan_306?igsh=ZXpwN2h1N3ozYWpz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raja%20Manikandan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-manikandan-p?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-rajamanikandan__306-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajamanikandan_306?igsh=ZXpwN2h1N3ozYWpz)
 
 ---
 
-## ⚡ Tech Stack
+## 🧬 AI + Dev Tech Stack
 
-### 💻 Languages & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,php,laravel,html,css,bootstrap,js,react,nodejs,mysql,mongodb" />
-</p>
-
-### 🎨 Design & CMS
-<p>
-<img src="https://skillicons.dev/icons?i=figma,wordpress" />
-</p>
-
-### 🛠 IDE & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git" />
-</p>
-
----
-
-## 🔥 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raja200212&theme=tokyonight&hide_border=true&background=000000"/>
-</p>
+### ⚡ Core Skills
+<p
