@@ -64,6 +64,3 @@
 
 ---
 
-## 🌙 Neon Motto
-
-> “Code in the dark. Shine in production.” ⚡
