@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Raja Manikandan ⚡
 
 <!--
-**Raja200212/Raja200212** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Raja200212/Raja200212** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
 <p align="center">
@@ -35,17 +35,21 @@
 
 ### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,html,css,bootstrap,js,react,nodejs,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,django,php,laravel,html,css,bootstrap,js,react,nodejs,mysql,mongodb" />
 </p>
+
+---
 
 ### 🎨 Design & CMS
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,wordpress" />
+<img src="https://skillicons.dev/icons?i=figma,wordpress" />
 </p>
+
+---
 
 ### 🛠 IDE & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git" />
+<img src="https://skillicons.dev/icons?i=vscode,git" />
 </p>
 
 ---
@@ -53,19 +57,11 @@
 # 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raja200212&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F7FF&icon_color=FF00FF" />
+<img src="https://github-readme-stats.vercel.app/api?username=Raja200212&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F7FF&icon_color=FF00FF"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raja200212&theme=tokyonight&hide_border=true&background=000000" />
-</p>
-
----
-
-## 🐍 Animated Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Raja200212/Raja200212/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raja200212&theme=tokyonight&hide_border=true&background=000000"/>
 </p>
 
 ---
